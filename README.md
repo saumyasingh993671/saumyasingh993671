@@ -1,3 +1,3 @@
 ## 🏆 Codewars Progress
 
-[![Codewars](https://www.codewars.com/users/YOUR_USERNAME/badges/large)](https://www.codewars.com/users/YOUR_USERNAME)
+[![Codewars](https://www.codewars.com/users/saumyasingh993671/badges/large)](https://www.codewars.com/users/saumyasingh993671)
